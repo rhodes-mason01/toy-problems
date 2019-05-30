@@ -26,3 +26,6 @@ var numJewelsInStones = function(J, S) {
     //return the number of letters that match and output it as an integer 
       return stonesThatAreJewels;
 };
+// NOTES
+// Never use single letter variables
+// strings are already split into arrays so .split() does nothing
