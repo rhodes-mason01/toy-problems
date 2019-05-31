@@ -5,6 +5,6 @@
 
 var toLowerCase = function(str) {
   //how to make all letters lower case
-    //.toLowerCase()
-      return string.toLowerCase();
+    
+      
 };
